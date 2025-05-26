@@ -1,0 +1,32 @@
+/* sett opp tekst stiler */
+h1 {
+    color: blue;
+}
+h2 {
+    /*
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-bottom: 100px;
+    */
+    /* samme som over, på en linje: */
+    margin: 50px 0 100px 25px;
+    color: red;
+}
+p {
+    font-size: 18px;
+    color: purple;
+}
+/* sett alle klasser til purple farge */
+.black-text {
+    color: black;
+}
+img {
+    width: 30%;  
+}
+.bigger {
+    width: 70%;
+}
+span {
+    background-color: black;
+    color: white;
+}
